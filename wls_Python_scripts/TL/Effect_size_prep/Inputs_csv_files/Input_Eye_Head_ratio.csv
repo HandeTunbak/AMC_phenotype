@@ -1,0 +1,85 @@
+Condition,Genotype,Treatment,Value
+Control,mab_sibs, ,0.4089635721042831
+Control,mab_sibs, ,0.3964485405958038
+Control,mab_sibs, ,0.4307296574310289
+Control,mab_sibs, ,0.403759448530854
+Control,mab_sibs, ,0.426528012218046
+Control,mab_sibs, ,0.3929358888968591
+Control,mab_sibs, ,0.4001059018163327
+Control,mab_sibs, ,0.3989865007161555
+Control,mab_sibs, ,0.4050697912551877
+Control,mab_sibs, ,0.3866167404861411
+Control,mab_sibs, ,0.4131588341776161
+Control,mab_sibs, ,0.3988762837657076
+Control,mab_sibs, ,0.3843113113701473
+Control,mab_sibs, ,0.3969792257840819
+Control,mab_sibs, ,0.3677865755191172
+Control,mab_sibs, ,0.4193580513742878
+Control,mab_sibs, ,0.394067506573758
+Control,mab_sibs, ,0.4147089078101426
+Control,mab_sibs, ,0.4021800786879679
+Control,mab_sibs, ,0.395977193419031
+Control,mab_sibs, ,0.3915180053983423
+Control,mab_sibs, ,0.4019300038055509
+Control,mab_sibs, ,0.413184301399574
+Control,mab_sibs, ,0.4172754930830062
+Control,mab_sibs, ,0.4183246901865369
+Control,mab_sibs, ,0.4053792349222272
+Control,mab_sibs, ,0.4117160978054053
+Control,mab_sibs, ,0.3897175179161289
+Control,mab_sibs, ,0.4024995463581021
+Control,mab_sibs, ,0.402498440795524
+Control,mab_sibs, ,0.3962945101478446
+Control,mab_sibs, ,0.3902917403472195
+Control,mab_sibs, ,0.4010237520907997
+Control,mab_sibs, ,0.3873708800242408
+Control,mab_sibs, ,0.4060252701646057
+Control,mab_sibs, ,0.3927419703104333
+Control,mab_sibs, ,0.390879500368353
+Control,mab_sibs, ,0.3946266734716285
+Control,mab_sibs, ,0.3622830373402303
+Control,mab_sibs, ,0.4422165855239047
+Control,mab_sibs, ,0.3887408784958395
+Control,mab_sibs, ,0.4043524505066962
+Control,mab_sibs, ,0.4035801603625902
+Control,mab_sibs, ,0.402709851904923
+Test,mab_sibs,wls-/-,0.4015339655902375
+Test,mab_sibs,wls-/-,0.4242205017587042
+Test,mab_sibs,wls-/-,0.4050795244801097
+Test,mab_sibs,wls-/-,0.4115348668990184
+Test,mab_sibs,wls-/-,0.4245373035767165
+Test,mab_sibs,wls-/-,0.4251259318135894
+Test,mab_sibs,wls-/-,0.3913565639614829
+Test,mab_sibs,wls-/-,0.4011444173098649
+Test,mab_sibs,wls-/-,0.4101881216168134
+Test,mab_sibs,wls-/-,0.4201088985828495
+Test,mab_sibs,wls-/-,0.4104577301801823
+Test,mab_sibs,wls-/-,0.4258104362892298
+Test,mab_sibs,wls-/-,0.4004356426254082
+Test,mab_sibs,wls-/-,0.4269588325819262
+Test,mab_sibs,wls-/-,0.4174697986105277
+Test,mab_sibs,wls-/-,0.4093448068932362
+Test,mab_sibs,wls-/-,0.4136051872408546
+Test,mab_sibs,wls-/-,0.4141876324410198
+Test,mab_sibs,wls-/-,0.4083540055865241
+Test,mab_sibs,wls-/-,0.3929995607290366
+Test,mab_sibs,wls-/-,0.4032603619802796
+Test,mab_sibs,wls-/-,0.4032424849697378
+Test,mab_sibs,wls-/-,0.4096472621085666
+Test,mab_sibs,wls-/-,0.4090437296611554
+Test,mab_sibs,wls-/-,0.3977319016837669
+Test,mab_sibs,wls-/-,0.4151961379587191
+Test,mab_sibs,wls-/-,0.4041764506077014
+Test,mab_sibs,wls-/-,0.4008094462700551
+Test,mab_sibs,wls-/-,0.3981047439604665
+Test,mab_sibs,wls-/-,0.4295037084926358
+Test,mab_sibs,wls-/-,0.4042713803608149
+Test,mab_sibs,wls-/-,0.4242127470195097
+Test,mab_sibs,wls-/-,0.3884368008923849
+Test,mab_sibs,wls-/-,0.4169952597359793
+Test,mab_sibs,wls-/-,0.4018671078821489
+Test,mab_sibs,wls-/-,0.4236462845400896
+Test,mab_sibs,wls-/-,0.4062950654560024
+Test,mab_sibs,wls-/-,0.3962139656567646
+Test,mab_sibs,wls-/-,0.3826874168456575
+Test,mab_sibs,wls-/-,0.4180019379713791
