@@ -1,0 +1,13 @@
+
+#---------------------------
+Head to Body Ratio Averaged Control vs Injected 
+Mean Control = 0.22422722138340362
+Mean Injected = 0.22260517145121586
+
+Unpaired t-test
+t= 0.47578097000461883
+p= 0.6421262277877186
+P-Value (UnInjected vs. Injected: 0.46340326340326343 (MannWhiteney U-test)
+
+
+Percentage change (((control- injected)/control)*100) is= 0.7233956350974143

@@ -1,0 +1,37 @@
+
+#---------------------------
+Forebrain Width Whole-brain Length Ratio: Control vs Injected
+
+Mean Uninjected = 0.27377275551514024
+Mean Injected = 0.27146175284388885
+
+Unpaired t-test
+t= 0.3576905451092179
+p= 0.7268279421269217
+
+MannWhiteney U-test
+u= 31.0
+p= 0.778865578865579
+
+
+Percentage change (((control- injected)/control)*100) is= 0.8441317204492945
+#---------------------------
+
+#----------------------------------------------
+
+#---------------------------
+Forebrain Width Self Length Ratio: Control vs Injected
+
+Mean Uninjected = 1.2322138021186937
+Mean Injected = 1.3419613973747946
+
+Unpaired t-test
+t= -3.4940780997575542
+p= 0.007642715909857795
+
+MannWhiteney U-test
+u= 5.0
+p= 0.005905205905205905
+
+
+Percentage change (((control- injected)/control)*100) is= -8.90653838379335

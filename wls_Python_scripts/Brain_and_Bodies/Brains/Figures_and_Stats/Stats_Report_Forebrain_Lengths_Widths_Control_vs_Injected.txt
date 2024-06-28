@@ -1,0 +1,37 @@
+
+#---------------------------
+Forebrain Width: Control vs Injected
+
+Mean Uninjected = 205.56112743206202
+Mean Injected = 194.28258553473535
+
+Unpaired t-test
+t= 3.426092624047228
+p= 0.004532380926463462
+
+MannWhiteney U-test
+u= 50.0
+p= 0.009324009324009324
+
+
+Percentage change (((control- injected)/control)*100) is= 5.486709495234811
+#---------------------------
+
+#----------------------------------------------
+
+#---------------------------
+Forebrain Lengths: Control vs Injected
+
+Mean Uninjected = 166.90638849498058
+Mean Injected = 145.1026339094564
+
+Unpaired t-test
+t= 5.899311539558116
+p= 9.077401618236388e-05
+
+MannWhiteney U-test
+u= 56.0
+p= 0.0003108003108003108
+
+
+Percentage change (((control- injected)/control)*100) is= 13.063463167666528

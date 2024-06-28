@@ -1,0 +1,13 @@
+
+#---------------------------
+Eccentricity all Control fish eyes vs all Injected fish eyes
+Mean Control = 0.5227287932910709
+Mean Injected = 0.45748946447958083
+
+Unpaired t-test
+t= 8.17998321199963
+p= 6.6409176105888986e-09
+P-Value (UnInjected vs. Injected: 7.864710144036777e-06 (MannWhiteney U-test)
+
+
+Percentage change (((control- injected)/control)*100) is= 12.480530946219158

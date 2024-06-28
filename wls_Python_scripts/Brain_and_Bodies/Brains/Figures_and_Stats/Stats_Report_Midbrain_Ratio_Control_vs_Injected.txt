@@ -1,0 +1,37 @@
+
+#---------------------------
+Midbrain Width Whole-brain Length Ratio: Control vs Injected
+
+Mean Uninjected = 0.5814425065426893
+Mean Injected = 0.5466524711989458
+
+Unpaired t-test
+t= 3.0953448544956026
+p= 0.011194683972621135
+
+MannWhiteney U-test
+u= 49.0
+p= 0.013986013986013986
+
+
+Percentage change (((control- injected)/control)*100) is= 5.98340075798865
+#---------------------------
+
+#----------------------------------------------
+
+#---------------------------
+Midbrain Width Self Length Ratio: Control vs Injected
+
+Mean Uninjected = 1.2982757416334971
+Mean Injected = 1.1644888435341165
+
+Unpaired t-test
+t= 4.513199646748272
+p= 0.0011568869262701897
+
+MannWhiteney U-test
+u= 54.0
+p= 0.0012432012432012432
+
+
+Percentage change (((control- injected)/control)*100) is= 10.304967874624943

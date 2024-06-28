@@ -1,0 +1,37 @@
+
+#---------------------------
+Hindbrain Width: Control vs Injected
+
+Mean Uninjected = 252.292893910913
+Mean Injected = 242.62087229749895
+
+Unpaired t-test
+t= 2.9327980405844776
+p= 0.013353143545452873
+
+MannWhiteney U-test
+u= 47.0
+p= 0.028904428904428903
+
+
+Percentage change (((control- injected)/control)*100) is= 3.8336480522631478
+#---------------------------
+
+#----------------------------------------------
+
+#---------------------------
+HindBrain Lengths: Control vs Injected
+
+Mean Uninjected = 247.9801838238368
+Mean Injected = 234.7081445996603
+
+Unpaired t-test
+t= 2.163707909379864
+p= 0.050119008224471004
+
+MannWhiteney U-test
+u= 44.0
+p= 0.0721056721056721
+
+
+Percentage change (((control- injected)/control)*100) is= 5.352056369796407

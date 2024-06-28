@@ -1,0 +1,13 @@
+
+#---------------------------
+Eye to Head Ratio Control vs Injected 
+Mean Control = 0.25459479780615923
+Mean Injected = 0.2602325117206369
+
+Unpaired t-test
+t= -1.698874380400691
+p= 0.10042947616526288
+P-Value (UnInjected vs. Injected: 0.07727038036713775 (MannWhiteney U-test)
+
+
+Percentage change (((control- injected)/control)*100) is= -2.214386925050226
