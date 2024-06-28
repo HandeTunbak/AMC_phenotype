@@ -1,0 +1,17 @@
+
+#---------------------------
+All Eye Length: Control vs Injected
+
+Mean Uninjected = 317.6374753495142
+Mean Injected = 294.2672061971643
+
+Unpaired t-test
+t= 15.511640176020286
+p= 9.965994517318895e-26
+
+MannWhiteney U-test
+u= 1743.0
+p= 1.1208095190467401e-14
+
+
+Percentage change (((control- injected)/control)*100) is= 7.357528933459191

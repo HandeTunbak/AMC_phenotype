@@ -1,0 +1,17 @@
+
+#---------------------------
+Average Body Length: Control vs Injected
+
+Mean Uninjected = 3454.305899646449
+Mean Injected = 3105.7576855573557
+
+Unpaired t-test
+t= 11.035014495631527
+p= 1.0463943728833654e-13
+
+MannWhiteney U-test
+u= 439.0
+p= 3.73866336901662e-08
+
+
+Percentage change (((control- injected)/control)*100) is= 10.090253272727463

@@ -1,0 +1,17 @@
+
+#---------------------------
+All Eye Area: Control vs Injected
+
+Mean Uninjected = 66597.05798010212
+Mean Injected = 60105.17167305064
+
+Unpaired t-test
+t= 12.227391427805552
+p= 6.303777545767363e-20
+
+MannWhiteney U-test
+u= 1709.0
+p= 1.1691754341959687e-13
+
+
+Percentage change (((control- injected)/control)*100) is= 9.748007650715039

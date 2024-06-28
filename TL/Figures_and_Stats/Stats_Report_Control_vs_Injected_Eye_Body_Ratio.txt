@@ -1,0 +1,13 @@
+
+#---------------------------
+Eye Body Ratio all Control fish eyes vs all Injected fish eyes
+Mean Control = 0.09178887858075294
+Mean Injected = 0.0945934030633531
+
+Unpaired t-test
+t= -3.9791084502475154
+p= 0.00017574352453242407
+P-Value (UnInjected vs. Injected: 0.0004542791137371575 (MannWhiteney U-test)
+
+
+Percentage change (((control- injected)/control)*100) is= -3.0554077203730357
