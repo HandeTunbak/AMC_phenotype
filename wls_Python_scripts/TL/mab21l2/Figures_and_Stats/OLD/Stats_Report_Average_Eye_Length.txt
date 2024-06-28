@@ -1,0 +1,52 @@
+
+#---------------------------
+Average Eye Length: Control vs Injected
+
+Mean Control MAB siblings = 322.05684095440563
+Mean Control MAB phenos= 299.2515624153939
+Mean Injected MAB siblings = 299.7429107151239
+Mean Injected phenos siblings = 276.1022429523913
+
+#------------------------
+Means: Control MAB siblings vs Injected MAB phenos
+Unpaired t-test
+t= 7.057203267388728
+p= 5.782190468644485e-07
+
+MannWhiteney U-test
+u= 132.0
+p= 5.548185695864912e-05
+
+#------------------------
+Means: Control MAB pheno vs Injected MAB phenos
+Unpaired t-test
+t= 6.304834823106845
+p= 2.4070101169921486e-06
+
+MannWhiteney U-test
+u= 135.0
+p= 0.0003080447056277469
+
+#------------------------
+Means: Control MAB siblings vs Control MAB phenos
+Unpaired t-test
+t= 5.6233740968878685
+p= 1.1815995152256173e-05
+
+MannWhiteney U-test
+u= 140.0
+p= 9.734567564713263e-05
+
+#------------------------
+Means: Injected MAB siblings vs Injected MAB phenos
+Unpaired t-test
+t= 9.09959055862501
+p= 9.844374804223912e-09
+
+MannWhiteney U-test
+u= 132.0
+p= 5.548185695864912e-05
+
+#------------------------
+Percentage Difference: 6.9285689362024(Mean Control MAB siblings ->  Mean Injected MAB sibllings)
+Percentage Difference: 7.735738880076025(Mean Control MAB phneos ->  Mean Injected MAB phenos)

@@ -1,0 +1,48 @@
+Condition,Genotype,Treatment,Value
+Control,mab_sibs, ,3535.263168198729
+Control,mab_sibs, ,3493.336951488265
+Control,mab_sibs, ,3527.239373599933
+Control,mab_sibs, ,3546.006488205793
+Control,mab_sibs, ,3473.492466675541
+Control,mab_sibs, ,3564.1630083007203
+Control,mab_sibs, ,3552.280201135105
+Control,mab_sibs, ,3652.9019912030426
+Control,mab_sibs, ,3510.3852754139853
+Control,mab_sibs, ,3523.783392066134
+Control,mab_sibs, ,3607.8600517128575
+Control,mab_sibs, ,3565.897167519787
+Control,mab-/-, ,3536.43187325506
+Control,mab-/-, ,3602.969116238325
+Control,mab-/-, ,3629.255811944709
+Control,mab-/-, ,3627.056680132785
+Control,mab-/-, ,3553.7091938800777
+Control,mab-/-, ,3532.272255093955
+Control,mab-/-, ,3631.298671704964
+Control,mab-/-, ,3556.551403920974
+Control,mab-/-, ,3483.1502267620863
+Control,mab-/-, ,3528.7225743209674
+Control,mab-/-, ,3566.526605257812
+Control,mab-/-, ,3698.5584552789146
+Test,mab_sibs,wls-/-,3312.7253386041525
+Test,mab_sibs,wls-/-,3286.023303194452
+Test,mab_sibs,wls-/-,3231.853683897526
+Test,mab_sibs,wls-/-,3199.292337466488
+Test,mab_sibs,wls-/-,3133.160345691243
+Test,mab_sibs,wls-/-,3125.9153170597924
+Test,mab_sibs,wls-/-,2935.9879605091974
+Test,mab_sibs,wls-/-,3154.401940372387
+Test,mab_sibs,wls-/-,3251.9893968810948
+Test,mab_sibs,wls-/-,2999.921740406978
+Test,mab_sibs,wls-/-,3234.280035966241
+Test,mab-/-,wls-/-,3307.6954721806374
+Test,mab-/-,wls-/-,3212.79343209343
+Test,mab-/-,wls-/-,3157.53400502707
+Test,mab-/-,wls-/-,3281.1182570645587
+Test,mab-/-,wls-/-,3192.6532973279864
+Test,mab-/-,wls-/-,3314.608351809896
+Test,mab-/-,wls-/-,3215.9167157920742
+Test,mab-/-,wls-/-,3199.302495700736
+Test,mab-/-,wls-/-,3246.7432829052486
+Test,mab-/-,wls-/-,3323.497108872415
+Test,mab-/-,wls-/-,3114.54376692924
+Test,mab-/-,wls-/-,3360.4360612038536
