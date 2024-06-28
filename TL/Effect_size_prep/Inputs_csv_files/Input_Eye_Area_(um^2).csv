@@ -1,0 +1,85 @@
+Condition,Genotype,Treatment,Value
+Control,mab_sibs, ,67539.11962204872
+Control,mab_sibs, ,63258.18290560021
+Control,mab_sibs, ,65146.73041920264
+Control,mab_sibs, ,64508.62637072306
+Control,mab_sibs, ,70966.38820365375
+Control,mab_sibs, ,64418.45015929593
+Control,mab_sibs, ,66610.44778119284
+Control,mab_sibs, ,64919.715385355936
+Control,mab_sibs, ,61542.5446989882
+Control,mab_sibs, ,68854.83348782359
+Control,mab_sibs, ,69663.84292748412
+Control,mab_sibs, ,66411.487568679
+Control,mab_sibs, ,64576.18696087164
+Control,mab_sibs, ,67650.76636000612
+Control,mab_sibs, ,65198.259682875294
+Control,mab_sibs, ,67560.590148579
+Control,mab_sibs, ,64707.872856923954
+Control,mab_sibs, ,65394.92970589255
+Control,mab_sibs, ,64364.05815875258
+Control,mab_sibs, ,68144.5884702023
+Control,mab_sibs, ,71294.74412272334
+Control,mab_sibs, ,66248.02529336189
+Control,mab_sibs, ,69023.44868950798
+Control,mab_sibs, ,63801.24408997247
+Control,mab_sibs, ,67693.13486569253
+Control,mab_sibs, ,65678.05438240503
+Control,mab_sibs, ,68916.3823305437
+Control,mab_sibs, ,61356.18052870547
+Control,mab_sibs, ,66910.74887892953
+Control,mab_sibs, ,66845.19220459044
+Control,mab_sibs, ,63391.872717462014
+Control,mab_sibs, ,67530.53141143662
+Control,mab_sibs, ,68934.70384651619
+Control,mab_sibs, ,64921.14675379129
+Control,mab_sibs, ,67378.80635728939
+Control,mab_sibs, ,65684.92495089471
+Control,mab_sibs, ,69228.9931968244
+Control,mab_sibs, ,66636.7849604033
+Control,mab_sibs, ,66562.92634913918
+Control,mab_sibs, ,68457.77188385716
+Control,mab_sibs, ,65060.5620393945
+Control,mab_sibs, ,68318.07032456687
+Control,mab_sibs, ,69645.52141151163
+Control,mab_sibs, ,69313.15766082307
+Test,mab_sibs,wls-/-,60526.84565726295
+Test,mab_sibs,wls-/-,57735.96348201508
+Test,mab_sibs,wls-/-,65216.58119884779
+Test,mab_sibs,wls-/-,62612.92201494386
+Test,mab_sibs,wls-/-,62978.207239645504
+Test,mab_sibs,wls-/-,62175.49582110052
+Test,mab_sibs,wls-/-,55767.54560972005
+Test,mab_sibs,wls-/-,61149.49092664075
+Test,mab_sibs,wls-/-,59263.80614990901
+Test,mab_sibs,wls-/-,58267.0011715304
+Test,mab_sibs,wls-/-,60768.46064915024
+Test,mab_sibs,wls-/-,60318.72468676288
+Test,mab_sibs,wls-/-,60150.68203245264
+Test,mab_sibs,wls-/-,60827.719302373785
+Test,mab_sibs,wls-/-,57900.57085208048
+Test,mab_sibs,wls-/-,58532.66315313159
+Test,mab_sibs,wls-/-,59288.71196068412
+Test,mab_sibs,wls-/-,60630.47673198238
+Test,mab_sibs,wls-/-,56995.946000938486
+Test,mab_sibs,wls-/-,60442.39491957723
+Test,mab_sibs,wls-/-,60384.28136110197
+Test,mab_sibs,wls-/-,59263.51987622194
+Test,mab_sibs,wls-/-,62581.145635679066
+Test,mab_sibs,wls-/-,58012.50386372495
+Test,mab_sibs,wls-/-,63326.02976943585
+Test,mab_sibs,wls-/-,65207.42044086154
+Test,mab_sibs,wls-/-,56162.31702418992
+Test,mab_sibs,wls-/-,61513.917330281176
+Test,mab_sibs,wls-/-,57658.383312819045
+Test,mab_sibs,wls-/-,63620.032846057
+Test,mab_sibs,wls-/-,61523.07808826742
+Test,mab_sibs,wls-/-,63067.81090369849
+Test,mab_sibs,wls-/-,59026.48526332777
+Test,mab_sibs,wls-/-,61273.447433142166
+Test,mab_sibs,wls-/-,56807.2916411592
+Test,mab_sibs,wls-/-,62892.03885983736
+Test,mab_sibs,wls-/-,56712.82132442601
+Test,mab_sibs,wls-/-,60054.78034728411
+Test,mab_sibs,wls-/-,54876.66189555743
+Test,mab_sibs,wls-/-,58692.69014420386
