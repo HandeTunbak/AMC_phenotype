@@ -1,0 +1,55 @@
+Eye Head Ratio: Control vs Injected
+#---------------------------
+#---------------------------
+
+Mean Control MAB siblings = 0.39356459256010856 um
+Mean Control MAB phenos= 0.3751696224904098 um
+Mean Injected MAB siblings = 0.4136350642824937 um
+Mean Injected MAB phenos = 0.384350537980027 um
+
+#------------------------
+Means: Control MAB siblings vs Injected MAB siblings
+Unpaired t-test
+t= -5.923028478276605
+p= 4.3797493133240335e-07
+
+MannWhiteney U-test
+u= 61.0
+p= 8.469062744042458e-06
+
+#------------------------
+Means: Control MAB phenos vs Injected MAB phenos
+Unpaired t-test
+t= -2.6076443311816093
+p= 0.012252673796689503
+
+MannWhiteney U-test
+u= 154.0
+p= 0.005910177030927583
+
+#------------------------
+Means: Control MAB siblings vs Control MAB phenos
+Unpaired t-test
+t= 5.302465064360109
+p= 3.1660170663743967e-06
+
+MannWhiteney U-test
+u= 483.0
+p= 6.058455057030492e-05
+
+#------------------------
+Means: Injected MAB siblings vs Injected MAB phenos
+Unpaired t-test
+t= 8.509499031350543
+p= 7.596989298671311e-11
+
+MannWhiteney U-test
+u= 514.0
+p= 4.099783768927187e-08
+
+#------------------------
+Mean Control MAB siblings ->  Mean Injected MAB sibllings
+Percentage Difference: -5.099663969217402 %
+
+Mean Control MAB phenos ->  Mean Injected MAB phenos
+Percentage Difference: -2.447137225203215 %
